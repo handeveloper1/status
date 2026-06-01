@@ -1,6 +1,6 @@
 {
   "register": {
-    "status": "open",
+    "status": "close",
     "version": "2.6.1",
     "message": "Register modülü aktif!"
   },
