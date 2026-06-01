@@ -5,8 +5,8 @@
     "message": "Register modülü aktif!"
   },
   "autoquest": {
-    "status": "close",
+    "status": "open",
     "version": "1.0.2",
-    "message": "AutoQuest bakımda, akşam açılacak."
+    "message": "AutoQuest modülü aktif!"
   }
 }
