@@ -1,8 +1,9 @@
 {
-  "latest_version": "1.0.25",
+  "latest_version": "1.0.26",
   "exe_url": "https://raw.githubusercontent.com/handeveloper1/status/refs/heads/main/KafeSiparis.exe",
   "exe_name": "KafeSiparis.exe",
   "allowed_devices": [
-    "F89F045D6265AB7704C561BC5CB157DB"
+    "F89F045D6265AB7704C561BC5CB157DB",
+    "8CFBEBBB33B136CBD6C99FADA121980E"
   ]
 }
