@@ -1,7 +1,7 @@
 {
   "register": {
     "status": "open",
-    "version": "2.6.1",
+    "version": "3",
     "message": "Register modülü aktif!"
   },
   "autoquest": {
