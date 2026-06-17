@@ -6,7 +6,7 @@
   },
   "autoquest": {
     "status": "open",
-    "version": "1.0.2",
+    "version": "2",
     "message": "AutoQuest modülü aktif!"
   },
   "tokenexport": {
