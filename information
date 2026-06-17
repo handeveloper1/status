@@ -8,5 +8,15 @@
     "status": "open",
     "version": "1.0.2",
     "message": "AutoQuest modülü aktif!"
+  },
+  "tokenexport": {
+    "status": "open",
+    "version": "1",
+    "message": "modülü aktif!"
+  },
+  "tokenchange": {
+    "status": "open",
+    "version": "1",
+    "message": "modülü aktif!"
   }
 }
