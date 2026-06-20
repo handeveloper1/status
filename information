@@ -7,16 +7,16 @@
   "autoquest": {
     "status": "open",
     "version": "2",
-    "message": "AutoQuest modülü aktif!"
+    "message": "\n\n 17.06.2026 AutoQuest modülü aktif!\n\n"
   },
   "tokenexport": {
     "status": "open",
     "version": "1",
-    "message": "modülü aktif!"
+    "message": "\n\n 17.06.2026 modülü aktif!\n\n"
   },
   "tokenchange": {
     "status": "open",
     "version": "1",
-    "message": "modülü aktif!"
+    "message": "\n\n 17.06.2026 modülü aktif!\n\n"
   }
 }
