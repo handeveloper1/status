@@ -1,7 +1,7 @@
 {
   "register": {
     "status": "open",
-    "version": "21062026",
+    "version": "21072026",
     "hwids": [
       "03000200-0400-0500-0006-000700080009",
       "F9F95B43-5626-7042-8B8F-1F20D57DACD2",
@@ -12,7 +12,7 @@
       "F3A64D56-278B-4C97-D83A-28D26D5AB7B1",
       "D92A3DC0-90CE-E811-A4C3-84A93E59F433"
     ],
-    "message": "\n\n 15.07.2026 Güncellemesi eklendi.\n\n"
+    "message": "\n\n 21.07.2026 Güncellemesi eklendi.Nuamra satin alirken ulke ve fiyat secimi eklendi.\n\n"
   },
   "autoquest": {
     "status": "open",
